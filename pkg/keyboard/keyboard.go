@@ -2,7 +2,7 @@
 package keyboard
 
 import (
-	"github.com/wuweiit/go-hook/pkg/types"
+	"github.com/daulet140/go-hook/pkg/types"
 )
 
 // HookHandler is a callback function which processes the incoming low level events.

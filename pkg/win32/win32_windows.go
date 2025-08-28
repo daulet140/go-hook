@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/wuweiit/go-hook/pkg/types"
+	"github.com/daulet140/go-hook/pkg/types"
 )
 
 var (

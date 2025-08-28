@@ -9,8 +9,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/wuweiit/go-hook/pkg/types"
-	"github.com/wuweiit/go-hook/pkg/win32"
+	"github.com/daulet140/go-hook/pkg/types"
+	"github.com/daulet140/go-hook/pkg/win32"
 )
 
 var hHook struct {

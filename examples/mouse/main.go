@@ -10,8 +10,8 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/wuweiit/go-hook/pkg/mouse"
-	"github.com/wuweiit/go-hook/pkg/types"
+	"github.com/daulet140/go-hook/pkg/mouse"
+	"github.com/daulet140/go-hook/pkg/types"
 )
 
 func main() {

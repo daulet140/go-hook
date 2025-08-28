@@ -6,7 +6,7 @@ package mouse
 import (
 	"fmt"
 
-	"github.com/wuweiit/go-hook/pkg/types"
+	"github.com/daulet140/go-hook/pkg/types"
 )
 
 func install(fn HookHandler, c chan<- types.MouseEvent) error {
